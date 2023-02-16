@@ -142,6 +142,15 @@ a, .secondary-text, .footer{
     padding-right: 150px;
 }
 
+
+#btn2 {
+    border: white solid 2px;
+}
+
+.sign-up container {
+
+}
+
 .sign-up {
     background-color: #3882f6;
     font-weight: bold;
@@ -164,3 +173,4 @@ img {
     width: 550px;
     height: 250px;
 }
+
